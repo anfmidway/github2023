@@ -1,2 +1,2 @@
-# Versionamneto gi-github no Visual Code
+# Versionamento gi-github no Visual Code
 
